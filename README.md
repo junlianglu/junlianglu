@@ -63,10 +63,10 @@ Hi, i'm [Junliang Lu](https://www.linkedin.com/in/junliang-lu/), a passionate se
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=theGame&show_owner=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/junlianglu/robustClassifier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=robustClassifier&show_owner=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junlianglu&repo=robustClassifier&show_owner=true&theme=dracula" />
 </a>
 <a href="https://github.com/junlianglu/SIXT33N">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=SIXT33N&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junlianglu&repo=SIXT33N&show_owner=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/junlianglu/Database">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Database&show_owner=true&theme=onedark" />
