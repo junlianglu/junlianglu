@@ -53,7 +53,7 @@ Hi, i'm [Junliang Lu](https://www.linkedin.com/in/junliang-lu/), a passionate se
 #### Personal Projects
 
 <a href="https://github.com/junlianglu/walkRunRideMoon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junlianglu&repo=walkRunRideMoon&show_owner=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=walkRunRideMoon&show_owner=true&theme=radical" />
 </a>
 <a href="https://github.com/junlianglu/stemClub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junlianglu&repo=stemClub&show_owner=true&theme=merko" />
