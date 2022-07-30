@@ -45,7 +45,7 @@ Hi, i'm [Junliang Lu](https://www.linkedin.com/in/junliang-lu/), a passionate se
 **Summary:**
 
 <a href="https://github.com/junlianglu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junlianglu&langs_count=6&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junlianglu&langs_count=3&layout=compact&theme=dark" />
 </a>
 
 #### Personal Projects
