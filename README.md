@@ -3,6 +3,8 @@
   <img align="left" alt="Junliang's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=walkRunRideMoon)](https://github.com/junlianglu/walkRunRideMoon)
+
 <br />
 
 Hi, i'm [Junliang Lu](https://www.linkedin.com/in/junliang-lu/), a passionate self-taught Full Stack Software Engineer. I graduated from UC Berkeley in Dec 2021 with a BS in Electrical Engineering and Computer Science. I am a first-year graduate student at Gatech from the MS in Computer Science program, and my expected graduation date is May 2024. I am enthusiastic about coding and experienced in algorithms. I am actively seeking Software Engineering Internships.
