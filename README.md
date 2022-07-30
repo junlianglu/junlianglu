@@ -3,8 +3,6 @@
   <img align="left" alt="Junliang's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=walkRunRideMoon)](https://github.com/junlianglu/walkRunRideMoon)
-
 <br />
 
 Hi, i'm [Junliang Lu](https://www.linkedin.com/in/junliang-lu/), a passionate self-taught Full Stack Software Engineer. I graduated from UC Berkeley in Dec 2021 with a BS in Electrical Engineering and Computer Science. I am a first-year graduate student at Gatech from the MS in Computer Science program, and my expected graduation date is May 2024. I am enthusiastic about coding and experienced in algorithms. I am actively seeking Software Engineering Internships.
@@ -56,29 +54,29 @@ Hi, i'm [Junliang Lu](https://www.linkedin.com/in/junliang-lu/), a passionate se
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=walkRunRideMoon&show_owner=true&theme=radical" />
 </a>
 <a href="https://github.com/junlianglu/stemClub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junlianglu&repo=stemClub&show_owner=true&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=stemClub&show_owner=true&theme=merko" />
 </a>
 
 #### Course Projects
 
 <a href="https://github.com/junlianglu/theGame">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junlianglu&repo=theGame&show_owner=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=theGame&show_owner=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/junlianglu/robustClassifier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junlianglu&repo=robustClassifier&show_owner=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=robustClassifier&show_owner=true&theme=dracula" />
 </a>
 <a href="https://github.com/junlianglu/SIXT33N">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junlianglu&repo=SIXT33N&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=SIXT33N&show_owner=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/junlianglu/Database">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junlianglu&repo=Database&show_owner=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Database&show_owner=true&theme=onedark" />
 </a>
 <a href="https://github.com/junlianglu/bearmap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junlianglu&repo=bearmap&show_owner=true&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=bearmap&show_owner=true&theme=cobalt" />
 </a>
 <a href="https://github.com/junlianglu/Pacman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junlianglu&repo=Pacman&show_owner=true&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Pacman&show_owner=true&theme=synthwave" />
 </a>
 <a href="https://github.com/junlianglu/digitClassifier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junlianglu&repo=digitClassifier&show_owner=true&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=digitClassifier&show_owner=true&theme=highcontrast" />
 </a>
