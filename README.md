@@ -35,6 +35,7 @@ I graduated from UC Berkeley in Dec 2021 with a BS in Electrical Engineering and
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
+
 JavaScript ES6, Typescript, Java, Python, Ruby, C#, C/C++, Go/Golang, PHP, Kotlin, Scala, Swift, Objective-C, RISC-V Assembly, R, MATLAB
 
 **Operating Systems:**  
