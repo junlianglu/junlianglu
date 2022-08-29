@@ -24,7 +24,8 @@ I am a Full Stack Software Engineer with experience developing applications in M
 
 I graduated from UC Berkeley in Dec 2021 with a BS in Electrical Engineering and Computer Science. I am a first-year graduate student at Gatech from the MS in Computer Science program, and my expected graduation date is May 2024. I am interested in being a (Full Stack | Front End | Back End) Software Engineering Intern.
 
-**Programming Languages:**  
+**Programming Languages:**
+JavaScript ES6, Typescript, Java, Python, Ruby, C#, C/C++, Go/Golang, PHP, Kotlin, Scala, Swift, Objective-C, RISC-V Assembly, R, MATLAB
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
