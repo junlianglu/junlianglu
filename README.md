@@ -5,7 +5,24 @@
 
 <br />
 
-Hi, i'm [Junliang Lu](https://www.linkedin.com/in/junliang-lu/), a passionate self-taught Full Stack Software Engineer. I graduated from UC Berkeley in Dec 2021 with a BS in Electrical Engineering and Computer Science. I am a first-year graduate student at Gatech from the MS in Computer Science program, and my expected graduation date is May 2024. I am enthusiastic about coding and experienced in algorithms. I am actively seeking Software Engineering Internships.
+Hi, i'm [Junliang Lu](https://www.linkedin.com/in/junliang-lu/).
+I am a Full Stack Software Engineer with experience developing applications in MERN and SERN tech stacks. I also have previous internship experience working as a Full Stack Software Engineering Intern.
+
+• Programming Languages: JavaScript ES6, Typescript, Java, Python, Ruby, C#, C/C++, Go/Golang, PHP, Kotlin, Scala, Swift, Objective-C, RISC-V Assembly, R, MATLAB
+
+• Front End: React/React.js/ReactJS, Hooks, Bootstrap, jQuery, EJS, HTML/HTML5, CSS/CSS3, DOM
+
+• Back End: Node/Node.js/NodeJS, Express/Express.js/ExpressJS, Mongoose, REST APIs (RESTful APIs), RESTful Web Services
+
+• Databases: MongoDB, MySQL, PostgreSQL, Oracle Database, SQL Server
+
+• Tools: Git/GitHub, Visual Studio, NPM, JUnit, Docker
+
+• Operating Systems: Unix/Linux, macOS, iOS, Windows, Android
+
+• Cloud Platforms: Azure, AWS, Google Cloud Platform
+
+I graduated from UC Berkeley in Dec 2021 with a BS in Electrical Engineering and Computer Science. I am a first-year graduate student at Gatech from the MS in Computer Science program, and my expected graduation date is May 2024. I am interested in being a (Full Stack | Front End | Back End) Software Engineering Intern.
 
 **Programming Languages:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
