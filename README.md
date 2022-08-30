@@ -77,7 +77,7 @@ I graduated from UC Berkeley in Dec 2021 with a BS in Electrical Engineering and
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junlianglu&langs_count=6&layout=compact&theme=dark" />
 </a>
 
-#### Personal Projects
+<!--#### Personal Projects
 
 <a href="https://github.com/junlianglu/walkRunRideMoon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=walkRunRideMoon&show_owner=true&theme=radical" />
@@ -108,4 +108,4 @@ I graduated from UC Berkeley in Dec 2021 with a BS in Electrical Engineering and
 </a>
 <a href="https://github.com/junlianglu/digitClassifier">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=digitClassifier&show_owner=true&theme=highcontrast" />
-</a>
+</a>-->
