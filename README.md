@@ -89,7 +89,7 @@ I graduated from UC Berkeley in Dec 2021 with a BS in Electrical Engineering and
 #### Course Projects
 
 <a href="https://github.com/junlianglu/TinDog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=TinDog&show_owner=true&theme=solarized-light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=TinDog&show_owner=true&theme=gotham" />
 </a>
 <a href="https://github.com/junlianglu/Dicee">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Dicee&show_owner=true&theme=solarized-dark" />
@@ -110,7 +110,7 @@ I graduated from UC Berkeley in Dec 2021 with a BS in Electrical Engineering and
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Keeper&show_owner=true&theme=blue-green" />
 </a>
 <a href="https://github.com/junlianglu/To-Do-List">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=To-Do-List&show_owner=true&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=To-Do-List&show_owner=true&theme=nord" />
 </a>
 <a href="https://github.com/junlianglu/To-Do-List-MongoDB">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=To-Do-List-MongoDB&show_owner=true&theme=nightowl" />
@@ -122,7 +122,7 @@ I graduated from UC Berkeley in Dec 2021 with a BS in Electrical Engineering and
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Dynamic-Login&show_owner=true&theme=vue-dark" />
 </a>
 <a href="https://github.com/junlianglu/Time-Simulator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Time-Simulator&show_owner=true&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Time-Simulator&show_owner=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/junlianglu/Dec-Inc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Dec-Inc&show_owner=true&theme=prussian" />
