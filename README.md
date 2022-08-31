@@ -49,7 +49,7 @@ I graduated from UC Berkeley in Dec 2021 with a BS in Electrical Engineering and
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/13295c57999765ac9ffa3281942a72ab08b79de2/topics/database/database.png"></code>  
-• MongoDB, MySQL, PostgreSQL, Oracle Database, SQL Server
+• MongoDB, NoSQL, MySQL, PostgreSQL, Oracle Database, SQL Server
 
 **Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
