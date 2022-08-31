@@ -89,7 +89,7 @@ I graduated from UC Berkeley in Dec 2021 with a BS in Electrical Engineering and
 #### Course Projects
 
 <a href="https://github.com/junlianglu/TinDog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pinusername=junlianglu&repo=TinDog&show_owner=true&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=TinDog&show_owner=true&theme=gotham" />
 </a>
 <a href="https://github.com/junlianglu/Dicee">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Dicee&show_owner=true&theme=solarized-dark" />
