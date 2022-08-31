@@ -139,9 +139,6 @@ I graduated from UC Berkeley in Dec 2021 with a BS in Electrical Engineering and
 <a href="https://github.com/junlianglu/Database">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Database&show_owner=true&theme=onedark" />
 </a>
-<a href="https://github.com/junlianglu/bearmap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=bearmap&show_owner=true&theme=cobalt" />
-</a>
 <a href="https://github.com/junlianglu/Pacman">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Pacman&show_owner=true&theme=synthwave" />
 </a>
