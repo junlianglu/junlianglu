@@ -5,7 +5,7 @@
 
 <br />
 
-Hi, i'm [Junliang Lu](https://www.linkedin.com/in/junliang-lu/).
+Hi, i'm [Junliang Lu](https://junlianglu.me/).
 I am a Full Stack Software Engineer with experience developing applications in MERN and SERN tech stacks. I also have previous internship experience working as a Full Stack Software Engineering Intern.
 
 I graduated from UC Berkeley in Dec 2021 with a BS in Electrical Engineering and Computer Science. I am a first-year graduate student at Gatech from the MS in Computer Science program, and my expected graduation date is May 2024. I am interested in being a (Full Stack | Front End | Back End) Software Engineering Intern.
