@@ -74,7 +74,7 @@ I graduated from UC Berkeley in Dec 2021 with a BS in Electrical Engineering and
 **Summary:**
 
 <a href="https://github.com/junlianglu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junlianglu&langs_count=8&hide=Jupyter%20Notebook&layout=compact&theme=dark&exclude_repo=Database,digitClassifier,robustClassifier" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junlianglu&langs_count=8&hide=Jupyter%20Notebook&layout=compact&theme=dark&exclude_repo=Database,digitClassifier,robustClassifier,EJS,Procfile" />
 </a>
 
 #### Personal Projects
