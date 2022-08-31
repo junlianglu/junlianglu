@@ -89,43 +89,43 @@ I graduated from UC Berkeley in Dec 2021 with a BS in Electrical Engineering and
 #### Course Projects
 
 <a href="https://github.com/junlianglu/TinDog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=TinDog&show_owner=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=TinDog&show_owner=true&theme=solarized-light" />
 </a>
 <a href="https://github.com/junlianglu/Dicee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Dicee&show_owner=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Dicee&show_owner=true&theme=solarized-dark" />
 </a>
 <a href="https://github.com/junlianglu/Simon-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Simon-Game&show_owner=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Simon-Game&show_owner=true&theme=bear" />
 </a>
 <a href="https://github.com/junlianglu/Drum-Kit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Drum-Kit&show_owner=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Drum-Kit&show_owner=true&theme=darcula" />
 </a>
 <a href="https://github.com/junlianglu/Secrets">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Secrets&show_owner=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Secrets&show_owner=true&theme=great-gatsby" />
 </a>
 <a href="https://github.com/junlianglu/Newsletter-Signup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Newsletter-Signup&show_owner=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Newsletter-Signup&show_owner=true&theme=algolia" />
 </a>
 <a href="https://github.com/junlianglu/Keeper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Keeper&show_owner=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Keeper&show_owner=true&theme=blue-green" />
 </a>
 <a href="https://github.com/junlianglu/To-Do-List">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=To-Do-List&show_owner=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=To-Do-List&show_owner=true&theme=buefy" />
 </a>
 <a href="https://github.com/junlianglu/To-Do-List-MongoDB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=To-Do-List-MongoDB&show_owner=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=To-Do-List-MongoDB&show_owner=true&theme=nightowl" />
 </a>
 <a href="https://github.com/junlianglu/Blog-with-Database">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Blog-with-Database&show_owner=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Blog-with-Database&show_owner=true&theme=shades-of-purple" />
 </a>
 <a href="https://github.com/junlianglu/Dynamic-Login">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Dynamic-Login&show_owner=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Dynamic-Login&show_owner=true&theme=vue-dark" />
 </a>
 <a href="https://github.com/junlianglu/Time-Simulator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Time-Simulator&show_owner=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Time-Simulator&show_owner=true&theme=vue" />
 </a>
 <a href="https://github.com/junlianglu/Dec-Inc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Dec-Inc&show_owner=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=junlianglu&repo=Dec-Inc&show_owner=true&theme=prussian" />
 </a>
 <a href="https://github.com/junlianglu/robustClassifier">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junlianglu&repo=robustClassifier&show_owner=true&theme=dracula" />
