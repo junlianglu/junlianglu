@@ -43,7 +43,7 @@ I graduated from UC Berkeley in Dec 2021 with a BS in Electrical Engineering and
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code>  
-• Node/Node.js/NodeJS, Express/Express.js/ExpressJS, Mongoose, REST APIs (RESTful APIs), RESTful Web Services
+• Node/Node.js/NodeJS, Express/Express.js/ExpressJS, Mongoose, REST APIs, SaaS, RESTful Web Services
 
 **Databases:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
