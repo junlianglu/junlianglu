@@ -6,7 +6,7 @@
 <br />
 
 Hi, i'm [Junliang Lu](https://junlianglu.me/).
-I am a Full Stack Software Engineer with experience developing applications in MERN and SERN tech stacks. I also have previous internship experience working as a Full Stack Software Engineering Intern.  I am interested in the (Full Stack | Front End | Back End) Software Engineering Intern field.
+I am a Full Stack Software Engineer with experience developing applications in MERN and SERN tech stacks. I also have previous internship experience working as a Full Stack Software Engineering Intern.  I am interested in the (Full Stack | Front End | Back End) Software Engineering field.
 
 **Programming Languages:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
