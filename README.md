@@ -12,7 +12,7 @@
 
 ## 🌐 Projects
 - 🐦 [Twitter Clone](https://github.com/junlianglu/twitter)
-- 🏥 [MyHealth Dashboard](https://github.com/junlianglu/myhealth)
+- 🏥 [MyHealth Dashboard](https://github.gatech.edu/jlu462/myhealth)
 - 🛒 [Amazon Marketplace](https://github.com/junlianglu/amazon)
 - 🏡 [Airbnb Clone](https://github.com/junlianglu/airbnb)
 
