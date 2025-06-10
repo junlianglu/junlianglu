@@ -18,9 +18,3 @@
 
 📫 Reach me at: junliang.lu.dev@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/junliang-lu) · [GitHub](https://github.com/junlianglu)
-
-**Summary:**
-
-<a href="https://github.com/junlianglu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junlianglu&langs_count=10&hide=Jupyter%20Notebook,EJS,Procfile&layout=compact&theme=dark&exclude_repo=Database,digitClassifier,robustClassifier,Pacman" />
-</a>
